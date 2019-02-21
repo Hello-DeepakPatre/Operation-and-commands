@@ -1,1 +1,3 @@
 First file in firstNewBranch.
+
+modified line in firstNewBranch.
